@@ -1,14 +1,14 @@
-🚢 Titanic Survival Analysis (EDA using Python)
+# 🚢 Titanic Survival Analysis (EDA using Python)
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to identify key factors that influenced passenger survival.
 
-🎯 Objective
+## 🎯 Objective
 
 To analyze passenger data and understand which features (such as gender, age, class, and fare) had the most impact on survival.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Python
 Pandas
@@ -16,7 +16,7 @@ NumPy
 Matplotlib
 Seaborn
 
-📊 Dataset
+## 📊 Dataset
 
 The dataset contains information about 891 passengers including:
 
@@ -54,7 +54,7 @@ Survival Status
 - Higher fare passengers had better survival probability  
 - Smaller families had better survival chances  
 
-## 📊 Visualizations
+##  📷 Visualizations
 
 ![Gender Survival](gender_survival.png)
 
@@ -64,6 +64,6 @@ Survival Status
 
 ![Age Group Survival](Age_group_survival.png)
 
-✅ Conclusion
+## ✅ Conclusion
 
 The analysis shows that gender, passenger class, and fare were the most important factors affecting survival. This project helped strengthen skills in data cleaning, feature engineering, and data visualization.
