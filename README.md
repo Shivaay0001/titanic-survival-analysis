@@ -27,30 +27,32 @@ Fare
 Embarked Location
 Survival Status
 
-🔍 Steps Performed
+## 🔍 Steps Performed
 
-1. Data Cleaning
-Dropped Cabin column due to high missing values
-Filled missing values in Age using median
-Filled missing values in Embarked using mode
-2. Feature Engineering
-Created Family Size feature
-Created Is Alone feature
-Grouped Age into categories
-Grouped Fare into ranges
-3. Exploratory Data Analysis
-Analyzed survival rate by gender
-Analyzed survival by passenger class
-Studied age distribution
-Compared fare and survival
-Used correlation heatmap
+### 1. Data Cleaning  
+- Dropped Cabin column due to high missing values  
+- Filled missing values in Age using median  
+- Filled missing values in Embarked using mode  
 
-📈 Key Insights
+### 2. Feature Engineering  
+- Created Family Size feature  
+- Created Is Alone feature  
+- Grouped Age into categories  
+- Grouped Fare into ranges  
 
-Females had a much higher survival rate than males
-Passengers in 1st class had higher survival chances
-Higher fare passengers had better survival probability
-Smaller families had better survival chances
+### 3. Exploratory Data Analysis  
+- Analyzed survival rate by gender  
+- Analyzed survival by passenger class  
+- Studied age distribution  
+- Compared fare and survival  
+- Used correlation heatmap
+  
+## 📈 Key Insights
+
+- Females had a much higher survival rate than males  
+- Passengers in 1st class had higher survival chances  
+- Higher fare passengers had better survival probability  
+- Smaller families had better survival chances  
 
 ## 📊 Visualizations
 
