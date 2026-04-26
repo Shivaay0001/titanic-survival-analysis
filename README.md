@@ -46,12 +46,12 @@ Compared fare and survival
 Used correlation heatmap
 
 📈 Key Insights
+
 Females had a much higher survival rate than males
 Passengers in 1st class had higher survival chances
 Higher fare passengers had better survival probability
 Smaller families had better survival chances
 
-📷 Visualizations
 ## 📊 Visualizations
 
 ![Gender Survival](gender_survival.png)
